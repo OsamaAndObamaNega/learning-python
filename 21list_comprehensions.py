@@ -1,8 +1,9 @@
 
 
+Ina = ["1fsdjf","flsadjf","kilers"]
 
-double = []
+print([a.upper() for a in Ina])
 
-for x in range(1, 10000000):
-    double.append(x * 2)
-print(double)
+
+
+
